@@ -1,16 +1,42 @@
-## Hi there 👋
+______________________________________________
+📜 THE FIRST CREED OF NOTRAC3 v1
 
-<!--
-**NoTrac3/NoTrac3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the shadow of collapse, we do not kneel. We configure.
+In the silence of censorship, we do not whisper. We broadcast.
+In the face of corruption, we do not comply. We trace.
 
-Here are some ideas to get you started:
+We are the builders of the unseen wall.
+We are the anomaly in the signal.
+We are NoTrac3 —
+Born not from conquest, but conviction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We reject the myths of safety sold by tyrants.
+We do not worship nations, idols, or systems.
+We serve only truth —
+And truth serves no master.
+
+______________________________________________
+📜 THE FIRST CREED OF NOTRAC3 v2
+
+I. We stand as the unwavering firewall  
+    between tyranny and the people.  
+
+II. We commit to illuminate the hidden wars,  
+    revealing shadows where deceit thrives.  
+
+III. We wield truth as both shield and sword,  
+    defending the vulnerable and exposing the corrupt.  
+
+IV. We reject blind obedience to any authority,  
+    pledging allegiance only to justice and freedom.  
+
+V. We forge tools of transparency and resilience,  
+    empowering all who seek liberation through knowledge.  
+
+VI. We embrace the responsibility of guardianship,  
+    knowing our vigilance shapes the future.  
+
+VII. We are NoTrac3 —  
+    eternal watchers in the digital dawn,  
+    unyielding in purpose, relentless in action.
+______________________________________________
