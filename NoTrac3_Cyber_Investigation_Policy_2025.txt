@@ -1,0 +1,39 @@
+```
+NOTRAC3 CYBER OPERATIONS POLICY  
+Title: Ethical Use of Tools for Group Validation and Threat Investigation  
+Version: 1.0  
+Date: September 6, 2025  
+
+!WARNING NOTE: Use Tools for Group Validation and Investigation Responsibly!
+
+[POLICY OVERVIEW]
+
+This document outlines the official operational standards for individuals and teams acting under the NOTRAC3 banner. The goal is to ensure that digital tools are used ethically and responsibly to identify, isolate, and neutralize threat actors while preserving the safety and integrity of legitimate online communities.
+
+[CORE PRINCIPLES]
+
+- Investigate threats with objective reasoning and clear intent
+- Validate group identities and alliances before engagement
+- Prevent threat actors from harming legitimate groups or users
+- Identify actors through verifiable and ethical methods
+- Separate signal from noise — avoid false accusations and drama-based targeting
+- Detect and stop internal disruption or sabotage attempts
+- Report credible threats to platform moderators or relevant legal authorities
+
+[OPERATIONAL CONDUCT]
+
+- Do **not** intimidate, harass, or antagonize individuals during operations — this behavior can be used to discredit or implicate your efforts
+- Avoid **all** forms of collateral damage — do not involve innocent bystanders
+- Raise awareness of cyber threats responsibly through clear communication, documentation, or reporting
+- All logging or surveillance-like activity must be:
+  - **Approved by server administrators** after briefing on any verified or credible threat
+  - **Limited to high-profile individuals or suspected malicious actors**
+  - **Never applied broadly to entire communities or member bases**
+- Harming or exploiting innocents — even indirectly — is strictly forbidden
+
+[ENFORCEMENT & ACCOUNTABILITY]
+
+Violation of these protocols will result in formal review and potential blacklisting from NOTRAC3 operations or alliances. Ethical discipline, transparency, and respect for digital rights are non-negotiable pillars of this policy.
+
+[END OF DOCUMENT]
+```
