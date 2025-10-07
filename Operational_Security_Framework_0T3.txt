@@ -1,7 +1,3 @@
-# EVASION GUIDE - FOR EDUCATIONAL PURPOSES ONLY
-# This document describes theoretical concepts for academic study
-# of security systems. Never use for unauthorized activities.
-
 ## OPERATIONAL SECURITY (OPSEC) FRAMEWORK
 
 ### IDENTITY PROTECTION
