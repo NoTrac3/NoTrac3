@@ -1,5 +1,5 @@
 # ETHICAL SECURITY RESEARCH FRAMEWORK
-# Document: ESRF-0T3 (Ethical Security Research Framework - Zero Trace Three)
+# Document: ESRF-0T3 (Ethical Security Research Framework - NoTrac3)
 
 ## PURPOSE AND GUIDING PRINCIPLES
 
