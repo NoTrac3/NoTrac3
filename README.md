@@ -21,6 +21,4 @@ We reject blind obedience to any system, wielding transparency as our sword and 
 **Join the eternal watchers — configure, broadcast, trace the truth.**
 
 **This is liberation. This is NoTrac3.**  
-@everyone
-
 **Unwavering. Relentless. Free.**
