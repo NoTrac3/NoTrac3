@@ -1,42 +1,26 @@
-______________________________________________
-📜 THE FIRST CREED OF NOTRAC3 v1
+**NoTrac3: United Against Digital Tyranny**  
 
-In the shadow of collapse, we do not kneel. We configure.
-In the silence of censorship, we do not whisper. We broadcast.
-In the face of corruption, we do not comply. We trace.
+> *“We stand as the unwavering firewall between tyranny and the people. We commit to illuminate the hidden wars, revealing shadows where deceit thrives.”*
 
-We are the builders of the unseen wall.
-We are the anomaly in the signal.
-We are NoTrac3 —
-Born not from conquest, but conviction.
+**NoTrac3** is your **digital sentinel** — a coalition forged to expose corruption, defend the vulnerable, and broadcast truth in an opaque world.  
+We reject blind obedience to any system, wielding transparency as our sword and justice as our shield.
 
-We reject the myths of safety sold by tyrants.
-We do not worship nations, idols, or systems.
-We serve only truth —
-And truth serves no master.
+**Core Pillars of NoTrac3:**
+- 🛡️ **Firewall of Protection**: Shield communities from raids, harassment, and predatory threats.  
+- 🔍 **Exposing Hidden Wars**: Ethical OSINT to uncover doxxing rings, swatting ops, and abuse networks like DPOS and SRA.  
+- ⚖️ **Justice Without Compromise**: Escalate verifiable evidence to authorities and platforms — no vigilantism, just accountability.  
+- 🌐 **Global Resilience**: Build unbreakable networks to empower survivors and deter oppressors.  
 
-______________________________________________
-📜 THE FIRST CREED OF NOTRAC3 v2
+**Proudly Partnered With:**  
+- **AKC The CrownState** – Sovereign defense in the mock-gov realm, fortifying server sovereignty against infiltrators.  
+- **ToxicBusters** – Frontline warriors dismantling toxic raids and harassment ecosystems.  
+- **CSS Civil Safety Society** – Advocates for civil digital order, promoting safety through structured community governance.  
+- **OPH (Operation Pedo Hunt)** – Ethical predator reporting coalition, safeguarding the vulnerable with verified escalations.  
 
-I. We stand as the unwavering firewall  
-    between tyranny and the people.  
+**We are the anomaly in the signal. Born from conviction, not conquest.**  
+**Join the eternal watchers — configure, broadcast, trace the truth.**
 
-II. We commit to illuminate the hidden wars,  
-    revealing shadows where deceit thrives.  
+**This is liberation. This is NoTrac3.**  
+@everyone
 
-III. We wield truth as both shield and sword,  
-    defending the vulnerable and exposing the corrupt.  
-
-IV. We reject blind obedience to any authority,  
-    pledging allegiance only to justice and freedom.  
-
-V. We forge tools of transparency and resilience,  
-    empowering all who seek liberation through knowledge.  
-
-VI. We embrace the responsibility of guardianship,  
-    knowing our vigilance shapes the future.  
-
-VII. We are NoTrac3 —  
-    eternal watchers in the digital dawn,  
-    unyielding in purpose, relentless in action.
-______________________________________________
+**Unwavering. Relentless. Free.**
