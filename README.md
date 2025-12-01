@@ -1,6 +1,7 @@
 **NoTrac3: United Against Digital Tyranny**  
 
 > *“We stand as the unwavering firewall between tyranny and the people. We commit to illuminate the hidden wars, revealing shadows where deceit thrives.”*
+- `NoTrace3 is for you, we are for you. and where you are, we are there. waiting to spring in to action to be a shield or the sword.`
 
 **NoTrac3** is your **digital sentinel** — a coalition forged to expose corruption, defend the vulnerable, and broadcast truth in an opaque world.  
 We reject blind obedience to any system, wielding transparency as our sword and justice as our shield.
